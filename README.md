@@ -1,10 +1,24 @@
-Name:        Hemanth Bommireddy
+## Hemanth Bommireddy
 
-Bio:         PhD candidate @Universidad-de-Chile | GW counterpart 
-             searches | Alert broker infrastructure | ALeRCE | ZTF | LSST
+PhD candidate in Astronomy at Universidad de Chile, working at the 
+intersection of multimessenger astronomy and alert broker infrastructure.
 
-Company:     Universidad de Chile
+### Research
+- Gravitational wave EM counterpart searches across ~200 LVK O4 events
+- Developer of [GW-AGN Watcher](https://pypi.org/project/gw-agn-watcher/) 
+  — a Python pipeline for real-time GW skymap crossmatching with ZTF alerts
+- Member of ALeRCE, DESGW, and TROVE collaborations
 
-Location:    Santiago, Chile
+### Infrastructure
+- React + TypeScript dashboard for GW-AGN candidate visualization
+- Real-time GCN Kafka alert consumer for Fermi GBM stream distribution
+
+### Stack
+Python • React • TypeScript • PostgreSQL • Kafka • FastAPI • Vercel
+
+### Links
+- 🔭 [GW-AGN Dashboard](https://gw-agn-dashboard.vercel.app)
+- 📦 [PyPI package](https://pypi.org/project/gw-agn-watcher/)
+- 📄 Bommireddy et al. 2026
 
 
