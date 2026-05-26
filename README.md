@@ -19,6 +19,6 @@ Python • React • TypeScript • PostgreSQL • Kafka • FastAPI • Vercel
 ### Links
 - 🔭 [GW-AGN Dashboard](https://gw-agn-dashboard.vercel.app)
 - 📦 [PyPI package](https://pypi.org/project/gw-agn-watcher/)
-- 📄 Bommireddy et al. 2026
+- 📄 [publications] (https://inspirehep.net/authors/2902490?ui-citation-summary=true)
 
 
