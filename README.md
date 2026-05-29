@@ -5,8 +5,7 @@ intersection of multimessenger astronomy and alert broker infrastructure.
 
 ### Research
 - Gravitational wave EM counterpart searches across ~200 LVK O4 events
-- Developer of [GW-AGN Watcher](https://pypi.org/project/gw-agn-watcher/) 
-  — a Python pipeline for real-time GW skymap crossmatching with ZTF alerts
+- Developer of [GW-AGN Watcher](https://pypi.org/project/gw-agn-watcher/) - a Python pipeline for real-time GW skymap crossmatching with ZTF alerts
 - Member of ALeRCE, DESGW, and TROVE collaborations
 
 ### Infrastructure
