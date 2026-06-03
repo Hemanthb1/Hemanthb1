@@ -4,7 +4,7 @@ intersection of multimessenger astronomy and alert broker infrastructure. My res
 
 In this new era of time domain astronomy, where enormous number of alerts are produced in a single night along with the alerts from the space telescopes, I aim to build open source tools for the astronomy community.
 
-Apart from my research, my hobbies are watching anime, playing DOTA 2
+ When I'm not chasing neutron star mergers: anime 🎌 & DOTA 2 🎮
 
 
 ### Links
