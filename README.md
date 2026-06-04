@@ -31,7 +31,7 @@ I build open-source tools to help the astronomy community navigate this flood of
 ##  Featured Projects
 
 ### [GW-AGN Watcher Dashboard](https://github.com/Hemanthb1/gw-agn-dashboard) · [Live Demo](https://gw-agn-dashboard.vercel.app)
-Real-time dashboard for GW follow-up — crossmatches LIGO/Virgo events with AGN candidates from ZTF/ALeRCE. Includes GW skymap overlays, ZTF light curves, and GraceDB integration. Features a GCN Kafka consumer for Einstein Probe WXT and Fermi GBM alerts.
+Dashboard for GW follow-up — crossmatches LIGO/Virgo events with AGN candidates from ZTF/ALeRCE. Includes GW skymap overlays, ZTF light curves, and GraceDB integration.
 > Contributed to NASA GCN codebase: [PR #3579](https://github.com/nasa-gcn/gcn.nasa.gov/pull/3579)
 
 ### [GW AGN Watcher Pipeline](https://github.com/Hemanthb1/GW_AGN_watcher)
