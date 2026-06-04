@@ -20,11 +20,11 @@ I build open-source tools to help the astronomy community navigate this flood of
 ## 🛠️ Tech Stack
 
 **Languages:** Python · TypeScript · SQL  
-**Astronomy:** astropy · ligo.skymap · healpy · sncosmo · simsurvey  
-**Brokers & Streams:** ALeRCE · GCN Kafka · GraceDB · Fink  
-**Backend:** FastAPI · PostgreSQL  
+**Astronomy:** astropy · ligo.skymap · healpy · sncosmo · Redback  
+**Brokers & Streams:** ALeRCE · GCN Kafka · GraceDB   
+**Backend:** PostgreSQL  
 **Frontend:** React · Vite · Recharts  
-**DevOps:** GitHub Actions · Vercel · Docker  
+**DevOps:** GitHub Actions · Vercel  
 
 ---
 
