@@ -11,7 +11,7 @@ I build open-source tools to help the astronomy community navigate this flood of
 ## 🔭 Research
 
 - **GW counterpart searches** — Crossmatching LIGO/Virgo/KAGRA skymaps with ZTF/ALeRCE alert streams to identify kilonova and AGN candidates
-- **Kilonova simulations** — Monte Carlo rate estimation and detection efficiency studies using Bulla BNS and Villar three-component light curve models
+- **Kilonova simulations** — Monte Carlo rate estimation and detection efficiency studies for several Kilonova models
 - **Alert broker infrastructure** — Building pipelines on top of ALeRCE, GCN Kafka streams, and GraceDB for real-time transient classification
 - **Survey sensitivity** — ZTF-based kilonova rate upper limits benchmarked against LVK BNS merger rates
 
