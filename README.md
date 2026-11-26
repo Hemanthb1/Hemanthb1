@@ -4,7 +4,7 @@ PhD candidate in Astronomy at **Universidad de Chile**, working at the intersect
 
 My research focuses on searching for electromagnetic counterparts of gravitational wave events using real-time public alert streams from ZTF, LSST, and DECam — in an era where tens of thousands of transients arrive every night.
 
-I build open-source tools to help the astronomy community navigate this flood of time-domain alerts.
+I like building open-source tools to help the astronomy community navigate this flood of time-domain alerts.
 
 ---
 
